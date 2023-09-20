@@ -29,6 +29,13 @@
 
     3.Escribe tres acciones que mejorarían la seguridad de un sistema.
 
+    ~~~
+    -La primera acción y la más común es el uso de contraseñas más seguras. Por ejemplo, no usar contraseñas de caractéres simples, sino que tengan caractéres variados, números, mayúsculas, minúsculas, etc.
+    -Hacer copias de seguridad, para que en caso de cualquier problema se pueda restaurar los datos.
+    -Precaución con el ransomware, malware, etc, vigilando los archivos que se descargan o los enlaces en los que se entra.
+    Por ejemplo, tenemos que tener cuidado con los emails, mensajes, pendrives desconocidos, etc.
+    ~~~
+
     4.Pon un ejemplo de cada una de las siguientes amenazas:
         1.Interrupción.
         ~~~
@@ -51,7 +58,10 @@
     5.Investiga en Internet y enumera tres sistemas de control de acceso para personas.
 
     ~~~
-    
+    Controles físicos:
+    -Uso de sistemas de reconocimiento biométrico, como lectores de credenciales o similar.
+    -Barreras físicas, como puertas o controles de seguridad.
+    -Guardias de seguridad que controlen el entorno.
     ~~~
 
     6.Describe brevemente las partes más importantes de las que consta un grupo electrógeno.
@@ -81,8 +91,13 @@
 
     8.¿Cuántas claves serían necesarias para que 3 personas se intercambiaran información utilizando cifrado simétrico? ¿Y si fuesen 4 personas?
 
+    ~~~
+    Para 3 personas se necesitarían 3 claves y para 4 personas 6 claves.
+    ~~~
+
     9.Describe detalladamente cómo conseguir un certificado digital para una persona jurídica.
 
     ~~~
     Para solicitar un certificado digital para una persona jurídica tenemos que dirigirnos a la sede electrónica de la Casa de la Moneda y Timbre.
+    Para esto, tienes que acreditar todos los datos que te pide la institución.
     ~~~
