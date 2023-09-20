@@ -1,3 +1,6 @@
+    
+    ###No consigo que las fotos se vean ni tampoco que aparezca en el formato adecuado##
+    
     1.Busca en Internet alguna aplicación que muestre la fortaleza de una contraseña. Utilizando esa aplicación determina la fortaleza de una contraseña con las siguientes características:
 
     ~~~
@@ -8,12 +11,12 @@
 
         ~~~
         Nos indica que la contraseña es muy débil y que se tardaría menos de un segundo en averiguarla.
-        ![](img/1.png)
+        ![](/img/1.png)
         ~~~
         2.Siete caracteres mezclando mayúsculas, minúsculas y caracteres especiales.
         ~~~
         Nos indica que la contraseña es fuerte y que se tardaría más tiempo en averiguarla.
-        ![](img/2.png)
+        ![](/img/2.png)
         ~~~
     
         
@@ -22,9 +25,9 @@
     ~~~
      Para ver los certificados digitales de seguridad de un navegador, tenemos primero que dirigirnos a una página cualquiera. Una vez dentro, miramos la barra de búsqueda, donde nos aparece la URL del sitio web. Al lado de esta debería de aparecernos un icono, en el caso de firefox (que es el navegador que he usado) es un candado. Clicamos en él y se nos abre una pequeña pestaña que nos da información del sitio, entre esta info está el certificado de la página en cuestión. Para el resto de navegadores el proceso es distinto.
 
-     ![](img/3.png)
+     ![](/img/3.png)
 
-     ![](img/4.png)
+     ![](/img/4.png)
     ~~~
 
     3.Escribe tres acciones que mejorarían la seguridad de un sistema.
@@ -93,6 +96,8 @@
 
     ~~~
     Para 3 personas se necesitarían 3 claves y para 4 personas 6 claves.
+    Es algo que podemos asimilar a un triángulo donde cada línea que conecta las esquinas es una clave necesaria y las esquinas son los usuarios.
+    Lo mismo sería con 4 usuarios, salvo que en este caso tendríamos dos triángulos conectados entre sí, por eso se necesitan 6 claves y no 5.
     ~~~
 
     9.Describe detalladamente cómo conseguir un certificado digital para una persona jurídica.
