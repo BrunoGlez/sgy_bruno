@@ -41,81 +41,81 @@ Dos máquinas vituales de Ubuntu 20.04 y nuestros dispositivos móviles.
 Vamos a comenzar instalando Bitwarden mediante la terminal de la siguiente manera.
 En la máquina de Bruno.
 
-![](/img/1.png)
+![](img/1.png)
 
 En la máquina de Hugo.
 
-![](/img/a.png)
+![](img/a.png)
 
 Entramos en bitwarden poniendo en la terminal el nombre de la aplicación.
 
-![](/img/2.png)
+![](img/2.png)
 
-![](/img/b.png)
+![](img/b.png)
 
 Se nos pide un correo, por lo que cogemos uno ya existente.
 
-![](/img/b1.png)
+![](img/b1.png)
 
 Y una contraseña.
 
-![](/img/3.png)
+![](img/3.png)
 
 Entramos después de esto en bitwarden.
 
-![](/img/4.png)
+![](img/4.png)
 
 Ahora tenemos que añadir una extensión al navegador que vamos a usar para que se guarden nuestras contraseñas y luego podamos introducirlas rápidamente.
 
-![](/img/d.png)
+![](img/d.png)
 
 Confirmamos.
 
-![](/img/5.png)
+![](img/5.png)
 
 Se nos abre la siguiente pestaña.
 
-![](/img/6.png)
+![](img/6.png)
 
 Ahora vamos a logearnos en Gmail para poder guardar la contraseña. Deslogueamos primero.
 
-![](/img/11.png)
+![](img/11.png)
 
 Y ahora viendo que se nos ha guardado la contraseña volvemos a entrar.
 
-![](/img/12.png)
+![](img/12.png)
 
 Se nos rellena clickando en la pestaña anterior.
 
-![](/img/13.png)
+![](img/13.png)
 
 Para que nos pida 2FA para gmail tenemos que activar la opción de usar una aplicación externa para esto. Lo hacemos en la siguiente pestaña.
 
-![](/img/g.png)
+![](img/g.png)
 
 Añadimos.
 
-![](/img/16.png)
+![](img/16.png)
 
 Y probamos que funciona entrando de nuevo a la cuenta.
 
-![](/img/h1.png)
+![](img/h1.png)
 
 Para hacer lo mismo pero con bitwarden entramos en la sección de seguridad y activamos el 2FA.
 
-![](/img/14.png)
+![](img/14.png)
 
 Vemos que se activa.
 
-![](/img/15.png)
+![](img/15.png)
 
 Y nos pide de nuevo el 2FA a la hora de entrar en bitwarden.
 
-![](/img/16.png)
+![](img/16.png)
 
 Entramos sin problemas a la aplicaión web.
 
-![](/img/17.png)
+![](img/17.png)
 
 
 
