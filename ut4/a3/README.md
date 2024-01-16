@@ -71,6 +71,10 @@ Ahora teniendo en cuenta que tenemos la máquina de IMW, que es donde tenemos ho
 
 Si queremos que se vea esta página desde otra máquina que sea ajena a la red, tendríamos que habilitar el funnel usando el debido comando.
 
+Este comando nos generará un enlace que podemos compartir con otras personas para acceder a nuestra web. El enlace resultante es el siguiente: 
+
+https://imw.pitta-danio.ts.net/
+
 Vamos ahora a probar con un compañero, en mi caso lo pruebo con Javier. Lo primero a hacer es añadirlo a la red.
 
 ![](img/21.png)
@@ -82,6 +86,7 @@ Si yo me quiero loguear a su red, uso el enlace de invitación.
 Estando ambos en las respectivas redes, deberíamos de poder ver nuestras páginas, en mi caso debería de poder ver la página hosteada por Javier. Probamos.
 
 ![](img/23.png)
+
 
 #### ***Conclusiones***. <a name="id5"></a>
 
