@@ -62,6 +62,11 @@ Ahora, si queremos añadir una blacklist o lista negra, tendremos que dirigirnos
 
 ![](img/7.png)
 
+Para poder iniciar el SquidGuard, tenemos que iniciar previamente el paquete Squid, que es el paquete principal del que depende el primero.
+Una vez iniciado Squid, SquidGuard se activará.
+
+![](img/8.png)
+
 #### ***Conclusiones***. <a name="id5"></a>
 
 Hemos aprendido a configurar un proxy usando PFSense, además de añadir listas negras para evitar que se puedan acceder a las páginas que estas contienen.
