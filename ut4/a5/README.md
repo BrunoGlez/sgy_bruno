@@ -67,6 +67,34 @@ Una vez iniciado Squid, SquidGuard se activará.
 
 ![](img/8.png)
 
+Ahora para poder bloquear todas las direcciones de la blacklist, tenemos que ir a la la pestaña de las ACL, donde podremos bloquear todas las direcciones que contiene la blacklist descargada.
+
+![](img/9.png)
+
+Vamos a probar. Podemos abrir el archivo .tar para leer los dominios que tenemos bloqueados y leer un txt aleatorio. Yo he probado con las páginas de bancos bloqueados.
+
+![](img/10.png)
+
+Si probamos a entrar en la página anterior, vemos que se nos ha bloqueado.
+
+![](img/11.png)
+
+Si queremos intentar añadir una página que no esté en nuestra blacklist, tenemos que añadirla manualmente en la pestaña siguiente -->
+
+![](img/12.png)
+
+Intentamos entrar.
+
+![](img/13.png)
+
+Aunque no se aprecie, la página no carga.
+
+Si ahora queremos filtrar por contenido, es similar a la anterior, solo que tendremos que escribir palabras clave. Por ejemplo, bitcoin, ethereum, musica. Para filtrar esto, podemos hacerlo de la siguiente manera -->
+
+![](img/14.png)
+
+Esto filtraría todas las webs que contengan palabras clave como estas.
+
 #### ***Conclusiones***. <a name="id5"></a>
 
 Hemos aprendido a configurar un proxy usando PFSense, además de añadir listas negras para evitar que se puedan acceder a las páginas que estas contienen.
